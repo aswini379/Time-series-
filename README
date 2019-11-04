@@ -1,0 +1,3 @@
+Project involving ARIMA time-series analysis of Emergency Medical Services in the state of Indiana during 2014-2017 using Python
+The project involves the identification of top five emergencies in Indiana as a whole as well as according to the counties followed by future forecasting.
+This project also deals with identification of the trend in Narcan administration in Indiana and its forecasting using ARIMA model
